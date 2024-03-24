@@ -11,7 +11,7 @@ body {
 
 #container {
   text-align: center;
-  width: 35%;
+  width: 85%;
   align-items: center;
   justify-content: center;
   display: flex;
@@ -62,4 +62,8 @@ button {
   position: fixed;
   bottom: 30px;
   right: 30px;
+}
+
+#audio {
+  display: none;
 }
