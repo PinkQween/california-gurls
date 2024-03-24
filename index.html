@@ -6,16 +6,21 @@
     <title>California Quiz</title>
     <link rel="stylesheet" href="css/index.css">
     <script defer src="js/index.js"></script>
+    <script defer src="js/audio.js"></script>
     </head>
     <body>
         <div id="container">
             <div id="question"></div>
             <div id="options"></div>
         </div>
+
+
         <div id="audio-player">
             <div id="play-button"></div>
-            <iframe id="youtube-player" width="0" height="0"
-                src="https://www.youtube.com/embed/F57P9C4SAW4?autoplay=0&loop=1&controls=0" frameborder="0" allowfullscreen></iframe>
+            <iframe width="0" height="0" src="https://www.youtube.com/embed/F57P9C4SAW4&autoplay=1&loop=1"
+                title="Katy Perry - California Gurls (Official Music Video) ft. Snoop Dogg" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                allowfullscreen id="youtube-player"></iframe>
         </div>
     </body>
 </html>
