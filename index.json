@@ -1,0 +1,254 @@
+{
+    "questions": [
+        {
+            "question": "What is the official state nickname of California?",
+            "options": [
+                "The Golden State",
+                "The Sunshine State",
+                "The Bear State",
+                "The Land of Opportunity"
+            ],
+            "answer": "The Golden State"
+        },
+        {
+            "question": "Which city is known as the entertainment capital of the world and is located in California?",
+            "options": [
+                "San Francisco",
+                "Los Angeles",
+                "San Diego",
+                "Sacramento"
+            ],
+            "answer": "Los Angeles"
+        },
+        {
+            "question": "What famous national park in California is known for its giant sequoia trees?",
+            "options": [
+                "Yosemite National Park",
+                "Sequoia National Park",
+                "Joshua Tree National Park",
+                "Redwood National and State Parks"
+            ],
+            "answer": "Sequoia National Park"
+        },
+        {
+            "question": "Which iconic bridge is located in San Francisco, California?",
+            "options": [
+                "Brooklyn Bridge",
+                "Golden Gate Bridge",
+                "Bay Bridge",
+                "London Bridge"
+            ],
+            "answer": "Golden Gate Bridge"
+        },
+        {
+            "question": "What is the highest peak in California and the highest summit in the contiguous United States?",
+            "options": [
+                "Mount Whitney",
+                "Mount Shasta",
+                "Mount San Jacinto",
+                "Mount Baldy"
+            ],
+            "answer": "Mount Whitney"
+        },
+        {
+            "question": "What is the name of the famous prison located on an island in San Francisco Bay, California?",
+            "options": [
+                "Alcatraz Island",
+                "San Quentin State Prison",
+                "Folsom State Prison",
+                "Pelican Bay State Prison"
+            ],
+            "answer": "Alcatraz Island"
+        },
+        {
+            "question": "Which California city is famous for its cable cars?",
+            "options": [
+                "San Francisco",
+                "Los Angeles",
+                "San Diego",
+                "Oakland"
+            ],
+            "answer": "San Francisco"
+        },
+        {
+            "question": "What desert occupies parts of southeastern California?",
+            "options": [
+                "Sonoran Desert",
+                "Mojave Desert",
+                "Chihuahuan Desert",
+                "Great Basin Desert"
+            ],
+            "answer": "Mojave Desert"
+        },
+        {
+            "question": "Which California university is known for its rivalry with Stanford University?",
+            "options": [
+                "University of California, Los Angeles (UCLA)",
+                "University of Southern California (USC)",
+                "University of California, Berkeley (UC Berkeley)",
+                "California Institute of Technology (Caltech)"
+            ],
+            "answer": "University of California, Los Angeles (UCLA)"
+        },
+        {
+            "question": "What is the name of the famous wine-producing region located in northern California?",
+            "options": [
+                "Napa Valley",
+                "Sonoma Valley",
+                "Santa Barbara County",
+                "Paso Robles"
+            ],
+            "answer": "Napa Valley"
+        },
+        {
+            "question": "What is the largest island in California?",
+            "options": [
+                "Alameda Island",
+                "Catalina Island",
+                "Angel Island",
+                "Santa Catalina Island"
+            ],
+            "answer": "Santa Catalina Island"
+        },
+        {
+            "question": "What is the official state flower of California?",
+            "options": [
+                "Poppy",
+                "Rose",
+                "Lily",
+                "Sunflower"
+            ],
+            "answer": "Poppy"
+        },
+        {
+            "question": "Which famous tech company has its headquarters in Cupertino, California?",
+            "options": [
+                "Google",
+                "Facebook",
+                "Apple",
+                "Microsoft"
+            ],
+            "answer": "Apple"
+        },
+        {
+            "question": "What is the name of the famous amusement park located in Anaheim, California?",
+            "options": [
+                "Six Flags Magic Mountain",
+                "Universal Studios Hollywood",
+                "Disneyland",
+                "Knott's Berry Farm"
+            ],
+            "answer": "Disneyland"
+        },
+        {
+            "question": "Which California city is known as the birthplace of the United Nations?",
+            "options": [
+                "San Francisco",
+                "Los Angeles",
+                "Sacramento",
+                "Oakland"
+            ],
+            "answer": "San Francisco"
+        },
+        {
+            "question": "What is the name of the famous prison in California known for its role in Johnny Cash's song 'Folsom Prison Blues'?",
+            "options": [
+                "San Quentin State Prison",
+                "Alcatraz Island",
+                "Folsom State Prison",
+                "Pelican Bay State Prison"
+            ],
+            "answer": "Folsom State Prison"
+        },
+        {
+            "question": "What is the name of the lake that is the largest natural freshwater lake entirely within California?",
+            "options": [
+                "Lake Tahoe",
+                "Clear Lake",
+                "Salton Sea",
+                "Mono Lake"
+            ],
+            "answer": "Clear Lake"
+        },
+        {
+            "question": "Which famous movie stars were honored in the Hollywood Walk of Fame in California?",
+            "options": [
+                "Tom Cruise and Nicole Kidman",
+                "Brad Pitt and Angelina Jolie",
+                "Beyoncé and Jay-Z",
+                "Marilyn Monroe and Charlie Chaplin"
+            ],
+            "answer": "Marilyn Monroe and Charlie Chaplin"
+        },
+        {
+            "question": "Which California city is famous for its role in the American Gold Rush?",
+            "options": [
+                "San Francisco",
+                "Los Angeles",
+                "Sacramento",
+                "Fresno"
+            ],
+            "answer": "San Francisco"
+        },
+        {
+            "question": "What is the name of the famous aquarium located in Monterey, California?",
+            "options": [
+                "SeaWorld San Diego",
+                "Aquarium of the Pacific",
+                "Monterey Bay Aquarium",
+                "California Academy of Sciences"
+            ],
+            "answer": "Monterey Bay Aquarium"
+        },
+        {
+            "question": "Which California desert is known for its unique ecosystem and Joshua trees?",
+            "options": [
+                "Mojave Desert",
+                "Sonoran Desert",
+                "Colorado Desert",
+                "Chihuahuan Desert"
+            ],
+            "answer": "Mojave Desert"
+        },
+        {
+            "question": "What is the name of the California island famous for its historic art deco casino and bison population?",
+            "options": [
+                "Catalina Island",
+                "Santa Cruz Island",
+                "Farallon Islands",
+                "Channel Islands"
+            ],
+            "answer": "Catalina Island"
+        },
+        {
+            "question": "Which famous author lived and wrote many of his novels in Big Sur, California?",
+            "options": [
+                "John Steinbeck",
+                "Ernest Hemingway",
+                "Mark Twain",
+                "F. Scott Fitzgerald"
+            ],
+            "answer": "John Steinbeck"
+        },
+        {
+            "question": "What is the name of the famous redwood forest located in Northern California?",
+            "options": [
+                "Redwood National Park",
+                "Yosemite National Park",
+                "Sequoia National Park",
+                "Muir Woods National Monument"
+            ],
+            "answer": "Redwood National Park"
+        },
+        {
+            "question": "Which California city is home to the largest population of Asian Americans in the United States?",
+            "options": [
+                "Los Angeles",
+                "San Francisco",
+                "San Jose",
+                "Oakland"
+            ],
+            "answer": "Los Angeles"
+        }
+    ]
+}
