@@ -37,14 +37,29 @@ body {
 }
 
 button {
-    height: 3rem;
-    width: 600%;
-    /* margin-left: -300%; */
-    border: 2px solid #ffffff;
-    border-radius: 3px;
-    background: #00000007;
-    text-align: center;
-    display: flex;
-    justify-content: center;
-    color: #ffffff;
+  height: 3rem;
+  width: 600%;
+  /* margin-left: -300%; */
+  border: 2px solid #ffffff;
+  border-radius: 3px;
+  background: #00000007;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  color: #ffffff;
+}
+
+#audio-player {
+  position: relative;
+}
+
+#play-button {
+  width: 50px;
+  height: 50px;
+  background-image: url("../assets/icons8-speaker-96.png"); /* Replace 'speaker_icon.png' with the path to your speaker icon image */
+  background-size: cover;
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
